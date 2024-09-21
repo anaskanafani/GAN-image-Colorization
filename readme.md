@@ -155,7 +155,8 @@ The plot below shows the loss curves for both the Generator and Discriminator du
 
 ### Generated Colorized Images After 150 Epochs
 
-![71ceb5cd-a485-4a78-84ec-23378f032ef4](https://github.com/user-attachments/assets/b57d0188-be17-4f9d-bac7-3845e1bf2d69)
+![download](https://github.com/user-attachments/assets/a9903c6e-ef57-4632-a7dd-828575e05fbc)
+
 
 The following images display the generated colorized outputs after training the GAN for 150 epochs. Although these results show some promise, they are not yet optimal. More epochs would likely improve the quality and realism of the generated images.
 
